@@ -1,6 +1,7 @@
 package practice.implementaions.TheLedgerCo.service;
 
-import com.example.geektrust.exceptions.InvalidInputException;
+
+import practice.implementaions.TheLedgerCo.exceptions.InvalidInputException;
 
 /**
  * Bank Application

@@ -1,7 +1,8 @@
 package practice.implementaions.BiddingService.apis.impl;
 
-import apis.BiddingSystem;
-import services.BiddingService;
+
+import practice.implementaions.BiddingService.apis.BiddingSystem;
+import practice.implementaions.BiddingService.services.BiddingService;
 
 import java.sql.Timestamp;
 

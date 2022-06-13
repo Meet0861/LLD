@@ -1,8 +1,9 @@
 package practice.implementaions.BiddingService.repositories;
 
-import exceptions.SellerAlreadyExists;
-import models.Seller;
-import models.User;
+
+import practice.implementaions.BiddingService.exceptions.SellerAlreadyExists;
+import practice.implementaions.BiddingService.models.Seller;
+import practice.implementaions.BiddingService.models.User;
 
 import java.util.ArrayList;
 import java.util.HashSet;

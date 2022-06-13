@@ -1,10 +1,11 @@
 package practice.implementaions.BiddingService.models;
 
-import enums.BidStatus;
+
+import practice.implementaions.BiddingService.enums.BidStatus;
 
 public class Bid {
     private int id;
-    private Buyer buyer;
+    private User buyer;
     private BidStatus bidStatus;
     private float proposedPrice;
 
@@ -21,7 +22,7 @@ public class Bid {
         return bidStatus;
     }
 
-    public void setBuyer(Buyer buyer) {
+    public void setBuyer(User buyer) {
         this.buyer = buyer;
     }
 

@@ -1,11 +1,12 @@
 package practice.implementaions.BiddingService.services;
 
-import exceptions.SellerAlreadyExists;
-import models.Auction;
-import models.Bid;
-import models.Item;
-import models.User;
-import repositories.UserRepository;
+
+import practice.implementaions.BiddingService.exceptions.SellerAlreadyExists;
+import practice.implementaions.BiddingService.models.Auction;
+import practice.implementaions.BiddingService.models.Bid;
+import practice.implementaions.BiddingService.models.Item;
+import practice.implementaions.BiddingService.models.User;
+import practice.implementaions.BiddingService.repositories.UserRepository;
 
 import java.sql.Timestamp;
 

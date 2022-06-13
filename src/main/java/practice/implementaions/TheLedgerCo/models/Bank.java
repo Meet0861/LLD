@@ -1,6 +1,7 @@
 package practice.implementaions.TheLedgerCo.models;
 
-import com.example.geektrust.enums.Address;
+
+import practice.implementaions.TheLedgerCo.enums.Address;
 
 public class Bank {
     private int id;

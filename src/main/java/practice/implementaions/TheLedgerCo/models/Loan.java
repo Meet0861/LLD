@@ -1,8 +1,9 @@
 package practice.implementaions.TheLedgerCo.models;
 
-import com.example.geektrust.enums.LoanType;
+
 import lombok.Getter;
 import lombok.Setter;
+import practice.implementaions.TheLedgerCo.enums.LoanType;
 
 @Getter
 @Setter

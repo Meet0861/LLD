@@ -1,7 +1,8 @@
 package practice.implementaions.TheLedgerCo.service;
 
-import com.example.geektrust.enums.CommandType;
-import com.example.geektrust.exceptions.InvalidInputException;
+
+import practice.implementaions.TheLedgerCo.enums.CommandType;
+import practice.implementaions.TheLedgerCo.exceptions.InvalidInputException;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,6 +1,7 @@
 package practice.implementaions.BiddingService.apis.impl;
 
-import apis.ProfitCalculation;
+
+import practice.implementaions.BiddingService.apis.ProfitCalculation;
 
 public class WinningBidProfitCalculation implements ProfitCalculation {
 

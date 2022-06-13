@@ -1,6 +1,7 @@
 package practice.implementaions.BiddingService.apis.impl;
 
-import apis.Communication;
+
+import practice.implementaions.BiddingService.apis.Communication;
 
 public class consoleCommunication implements Communication {
 

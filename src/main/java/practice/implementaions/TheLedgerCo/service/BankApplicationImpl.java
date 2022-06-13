@@ -1,8 +1,9 @@
 package practice.implementaions.TheLedgerCo.service;
 
-import com.example.geektrust.enums.LoanType;
-import com.example.geektrust.exceptions.InvalidInputException;
-import com.example.geektrust.models.*;
+
+import practice.implementaions.TheLedgerCo.enums.LoanType;
+import practice.implementaions.TheLedgerCo.exceptions.InvalidInputException;
+import practice.implementaions.TheLedgerCo.models.*;
 
 import java.util.*;
 import java.util.stream.Collectors;
